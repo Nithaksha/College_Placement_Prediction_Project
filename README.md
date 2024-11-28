@@ -1,4 +1,3 @@
-# College_Placement_Prediction_Project
 # College Placement Prediction Web Application
 
 An interactive web application developed using **Streamlit** and a **Support Vector Machine (SVM)** model to predict college placement chances. This project allows users to input academic and personal metrics, providing real-time predictions about the likelihood of securing a placement.
